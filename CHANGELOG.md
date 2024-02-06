@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/williamnadolski/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-06)
+
+
+### Features
+
+* add testing to pipeline ([d68cabb](https://github.com/williamnadolski/greetings-ci/commit/d68cabbd54d0faee17c765c8e567eb13cf20c1cb))
+
+
+
 # [0.3.0](https://github.com/williamnadolski/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-06)
 
 

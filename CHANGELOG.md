@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/williamnadolski/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-06)
+
+
+### Features
+
+* version artifact ([6702fd3](https://github.com/williamnadolski/greetings-ci/commit/6702fd3c9b0a0791935433ad68d8d51c2140ddca))
+
+
+
 # [0.2.0](https://github.com/williamnadolski/greetings-ci/compare/v0.1.1...v0.2.0) (2024-02-06)
 
 

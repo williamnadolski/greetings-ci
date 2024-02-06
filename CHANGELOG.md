@@ -1,4 +1,13 @@
-# 0.1.0 (2024-02-06)
+## [0.1.1](https://github.com/williamnadolski/greetings-ci/compare/v0.1.0...v0.1.1) (2024-02-06)
+
+
+### Bug Fixes
+
+* reset change log ([f291580](https://github.com/williamnadolski/greetings-ci/commit/f291580a78dbf8436222aa6e355d77701525c81d)), closes [#2](https://github.com/williamnadolski/greetings-ci/issues/2)
+
+
+
+# [0.1.0](https://github.com/williamnadolski/greetings-ci/compare/338e9ad9f08293245ebfb9cc2f8afd4f9151d5a2...v0.1.0) (2024-02-06)
 
 
 ### Bug Fixes
